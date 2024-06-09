@@ -1,1 +1,2 @@
-# git-sample2
+# README
+sample.txtを作成
